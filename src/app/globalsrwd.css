@@ -1,0 +1,27 @@
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  #detailsPage{
+    width: 90% !important;
+  }
+}
+
+/* -------------------- */
+@media screen and (min-width: 590px) and (max-width: 768px) {
+ 
+}
+
+/* -------------------- */
+@media screen and (max-width: 590px) {
+
+  .col-md-4,
+  .col-lg-4 {
+    width: 93%;
+  }
+
+  .col {
+    display: none;
+  }
+  .col-sm-custom{
+    display: block !important;
+  }
+
+}
